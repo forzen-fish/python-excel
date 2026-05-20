@@ -41,7 +41,7 @@ for i in range(2,33):
         name_list.append([i,3])
 
 for i in range(2,33):
-    name = sheet_xiaobiao.row(i)[3].value
+    name = 中文一段
     if name in namelist_1:
         name_list.append([i,3])
 
