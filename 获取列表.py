@@ -40,7 +40,10 @@ for i in range(2,33):
     if name in namelist_1:
         name_list.append([i,3])
 
-
+for i in range(2,33):
+    name = sheet_xiaobiao.row(i)[3].value
+    if name in namelist_1:
+        name_list.append([i,3])
 
 #三班
 for i in range(2,35):
