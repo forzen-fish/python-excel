@@ -44,6 +44,19 @@ for i in range(2,33):
     name = 中文一段
     if name in namelist_1:
         name_list.append([i,3])
+        for i in range(2,33):
+    name = 中文一段
+    if name in namelist_1:
+        name_list.append([i,3])
+        for i in range(2,33):
+    name = 中文一段
+    if name in namelist_1:
+        name_list.append([i,3])
+        for i in range(2,33):
+    name = 中文一段
+    if name in namelist_1:
+        name_list.append([i,3])
+        
 
 #三班
 for i in range(2,35):
